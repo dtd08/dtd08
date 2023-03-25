@@ -4,35 +4,21 @@
 </div>
 
 ## LEE SEO YOUNG (이서영)
+### The School I Attend
 <div align = "left">
   
-  The School I Attend
-  
-  ◽ Sungil Infoamtion HighSchool
-  
-  SNS
-  
-  <img href="https://www.instagram.com/iseoyoung627/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black">
-  
-  Skils
-  
-  ![Java](https://img.shields.io/badge/Java-1F4056.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-  
-  Tools
-  
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black">  
-  
+  Sungil Infoamtion HighSchool
+</div>
 
-</div>  
-
+### About Me
 <div align = "left">
+  
+  성일정보고 소프트웨어개발과에 재학중인 이서영이라고 합니다.
+  
+  아직 1학년이고 미숙한 점이 많지만 열심히 배우겠습니다.
+</div>
 
-  Stats
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ddwt0826)](https://solved.ac/ddwt0826)
-  
-![dtd08's github stats](https://github-readme-stats.vercel.app/api?username=dtd08&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### SNS
+<div align = "left">
+  <a href="https://www.instagram.com/iseoyoung627/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
