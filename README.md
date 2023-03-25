@@ -1,10 +1,39 @@
-### Hi there 👋
+<div align = "center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome!&fontSize=70)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+## LEE SEO YOUNG (이서영)
+<div align = "left">
+  
+  ◽ The School I Attend
+  
+   Sungil Infoamtion HighSchool
+  
+  ◽ SNS
+  
+  <img href="https://www.instagram.com/iseoyoung627/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black">
+  
+  ◽ Skils
+  
+  ![Java](https://img.shields.io/badge/Java-1F4056.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+  
+  ◽ Tools
+  
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black">  
+  
 
-<a href="https://www.instagram.com/iseoyoung627/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</div>  
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdtd08&count_bg=%233E8DFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-# 안녕하세요
-## 반갑습니다
-### 좋은 하루 보내세요
+<div align = "left">
+
+  ◽ Stats
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ddwt0826})](https://solved.ac/{ddwt0826})
+  
+![dtd08's github stats](https://github-readme-stats.vercel.app/api?username=dtd08&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
