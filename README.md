@@ -1,6 +1,6 @@
 <div align = "center">
   
-  ## LEE SEO YOUNG (이서영)
+  ## LEE SEOYOUNG (이서영)
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome!&fontSize=70)
   ## About Me 💬
