@@ -7,7 +7,7 @@
     
   성일정보고 소프트웨어개발과에 재학중인 이서영이라고 합니다.
   
-  아직 미숙한 점이 많지만 열심히 배우겠습니다.
+  항상 배우는 자세로 임하겠습니다.
   
 </div>
 
@@ -15,19 +15,21 @@
   
   ### Tool In Use 🛠️
 
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black">
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-00A1E0?style=for-the-badge&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-black.svg?style=for-the-badge&logo=intellijidea&logoColor=white">
 </div>
 
 
 <div align = "center">
   
-  ### The Language I Am Learning ✏️
+  ### The Language I Often Use ✏️
   
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/java-006600?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
 
