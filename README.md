@@ -5,9 +5,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome!&fontSize=70)
   ## About Me 💬
     
-  성일정보고 소프트웨어개발과에 재학중인 이서영이라고 합니다.
+  충북대학교 지능로봇공학과에 재학중인 이서영이라고 합니다.
   
-  항상 배우는 자세로 임하겠습니다.
+  항상 열정적인 자세로 임하겠습니다.
   
 </div>
 
